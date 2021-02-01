@@ -51,7 +51,7 @@ export default class Login extends Component{
 	render(){
 		return(
 			<div className="login-container">
-
+				<h1>Welcome to sign up app</h1>
 				<div id="text">
 					<img className="logo" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/header/logo-white.svg" alt="LivePerson" />
 				</div>
