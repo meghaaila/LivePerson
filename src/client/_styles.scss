@@ -1,0 +1,49 @@
+.container{
+	padding-top: 50px;
+	min-width: 418px;
+}
+
+input[type=text], input[type=password], .datalist, textarea{
+	outline: 0;
+	border-width: 0 0 1px;
+	border-color: #C3E4EA;
+	display: block;
+	width: 100%;
+	margin: 30px 0 0;
+	background: none;
+	font-size: 12px;
+	line-height: 14px;
+}
+
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+form{
+	margin: 0 58px;
+}
+.hidden{
+	display: none;
+}
+button{
+	height: 30px;
+  height: 48px;
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+h1{
+	color: #f55959;
+}
+.primary{
+    background: #f55959;
+    color: white;
+      border: none;
+}
+.secondary{
+   background: transparent;
+   border: 1px solid #f55959;
+  color: #f55959;
+}

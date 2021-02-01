@@ -1,0 +1,13 @@
+@import "../../_styles.scss";
+
+.loginFailed{
+  color: red;
+  font-size: 14px;
+}
+.login-container{
+  text-align: center;
+  margin: 10% 5% auto;
+  border: 1px #090C43 solid;
+  border-radius: 13px;
+  min-width: 418px;
+}

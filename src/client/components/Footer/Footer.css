@@ -1,0 +1,11 @@
+#footer{
+	height:80px;
+	position: sticky;
+   width: 100%;
+   background: linear-gradient(180deg, #79D9F1 0%, #44B1DF 100%);;
+   color: white;
+   text-align: center;
+   margin-top: 42px;
+   font-size: 18.4px;
+   line-height: 22px;
+}

@@ -1,0 +1,60 @@
+@import "../../_styles.scss";
+
+.control-class{
+  color: purple;
+  width: 149px;
+}
+
+.Dropdown-option{
+	text-align: left;
+}
+.Dropdown-option:hover {
+    background-color: #D8E8EF;
+    color: #333;
+ }
+
+
+.Dropdown-arrow-wrapper{
+	display: none;
+}
+
+
+input[type=text]:focus, input[type=password]:focus{
+	border-color: #9013FE
+}
+
+label{
+	font-size: 10px;
+	line-height: 12px;
+	color: #FF0000;
+	text-align: left;
+	display: block;
+}
+
+.hidden{
+	display: none;
+}
+
+form{
+	margin: 0 58px;
+}
+#text{
+	font-size: 30px;
+	line-height: 29px;
+	text-align: center;
+    margin: 20px 30% 36px;
+	color: #22386F;
+}
+#terms {
+	display: block;
+	color: #22386F;
+	font-size: 10.827px;
+	line-height: 13px;
+	text-align: center;
+	margin-top: 51px;
+
+	a{
+		color: #22386F;
+	}
+
+}
