@@ -51,7 +51,6 @@ export default class Login extends Component{
 	render(){
 		return(
 			<div className="login-container">
-				<img src={textboxIcon} id="textboxIcon" />
 
 				<div id="text">
 					<img className="logo" src="https://d1hryyr5hiabsc.cloudfront.net/web2020/img/header/logo-white.svg" alt="LivePerson" />
